@@ -13,11 +13,12 @@ Este proyecto automatiza la limpieza, análisis y envío de reportes utilizando 
 ## Uso
 
 1. Instala las dependencias:
+   
 !pip install -r requirements.txt
 
-2. Configura tus credenciales en el archivo `.env`.
+3. Configura tus credenciales en el archivo `.env`.
 
-3. Ejecuta el script maestro:
+4. Ejecuta el script maestro:
 python src/run_all.py
 
 El script se ejecutará diariamente a las 08:00 AM, generando y enviando el reporte automáticamente.
