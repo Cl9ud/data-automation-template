@@ -47,6 +47,7 @@ data-automation-template/
 ##########################
 🧪 ¿Qué hace?
 ##########################
+
 	•	Limpia un CSV que pongas en /data/
 	•	Genera visualizaciones automáticas (gráficos con Plotly o Matplotlib)
 	•	Crea un HTML con el análisis
@@ -56,6 +57,7 @@ data-automation-template/
 ##########################
 🧪 Descripción del Proyecto
 ##########################
+
 Este proyecto automatiza las siguientes tareas:
 	1.	Limpieza de datos: Procesa el conjunto de datos de móviles 2025, eliminando valores nulos y estandarizando nombres de columnas.
 	2.	Análisis y visualización: Genera gráficos interactivos para visualizar tendencias en precios y especificaciones de los dispositivos.
